@@ -7,7 +7,7 @@
 int main()
 { 
 	printf("Welcome to the TonySal test task. \n");
-	printf("If you need help just put down commend 'help'\n");
+	printf("If you need help just put down command 'help'\n");
     printf("Enter command: ");
 	string cmd, name;
 	int id;
